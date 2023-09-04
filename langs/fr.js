@@ -118,7 +118,7 @@ langs.fr = { // Property here should match this language name
 		// Indices
 		clue_dots: 								"DOTS",
 		clue_emf: 								"EMF 5",
-		clue_ultraviolet: 				"Empreintes dig.",
+		clue_ultraviolet: 				"Ultraviolet",
 		clue_temps: 							"Temp. glaciales",
 		clue_orb: 								"Orbes",
 		clue_writing: 						"Ecritures fant.",
